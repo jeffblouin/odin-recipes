@@ -1,0 +1,21 @@
+ul.recipe
+{
+    color: brown;
+    background-color: aqua;
+
+}
+
+ol.recipe
+{
+    color: blue;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    }
+
+
+img
+    {
+        height: auto;
+        width: 800px;
+    }
